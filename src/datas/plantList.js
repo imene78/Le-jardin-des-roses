@@ -20,7 +20,7 @@ import rosierWildfire from '../assets/rosierWildfire.png'
 
 export const plantList = [
 	{
-		name: 'rosaCarris',
+		name: 'rosa Carris',
 		category: 'classique',
 		id: '1ed',
 		bestSale: true,
@@ -30,7 +30,7 @@ export const plantList = [
 		price: 10
 	},
 	{
-		name: 'roseBleue',
+		name: 'rose Bleue',
 		category: 'classique',
 		id: '1ed',
 		bestSale: true,
@@ -40,7 +40,7 @@ export const plantList = [
 		price: 15
 	},
 	{
-		name: 'rosierBlixen',
+		name: 'rosier Blixen',
 		category: 'classique',
 		id: '2ab',
 		light: 3,
@@ -49,7 +49,7 @@ export const plantList = [
 		price: 12
 	},
 	{
-		name: 'rosierDancingQueen',
+		name: 'rosier Dancing Queen',
 		category: 'classique',
 		id: '3sd',
 		light: 1,
@@ -58,7 +58,7 @@ export const plantList = [
 		price: 14
 	},
 	{
-		name: 'rosierFab',
+		name: 'rosier Fab',
 		category: 'classique',
 		id: '4kk',
 		bestSale: true,
@@ -68,7 +68,7 @@ export const plantList = [
 		price: 12
 	},
 	{
-		name: 'rosierFaithful',
+		name: 'rosier Faithful',
 		category: 'extérieur',
 		id: '5pl',
 		light: 3,
@@ -78,7 +78,7 @@ export const plantList = [
 		
 	},
 	{
-		name: 'rosierFloribunda',
+		name: 'rosier Floribunda',
 		category: 'extérieur',
 		id: '5pl',
 		light: 3,
@@ -89,7 +89,7 @@ export const plantList = [
 	},
 
 	{
-		name: 'rosierGlory',
+		name: 'rosier Glory',
 		category: 'plante grasse',
 		id: '8fp',
 		light: 2,
@@ -98,7 +98,7 @@ export const plantList = [
 		price: 17
 	},
 	{
-		name: 'rosierHannah',
+		name: 'rosier Hannah',
 		category: 'classique',
 		id: '1ed',
 		light: 2,
@@ -107,7 +107,7 @@ export const plantList = [
 		price: 15
 	},
 	{
-		name: 'rosierIceberg',
+		name: 'rosier Iceberg',
 		category: 'classique',
 		id: '2ab',
 		bestSale: true,
@@ -117,7 +117,7 @@ export const plantList = [
 		price: 16
 	},
 	{
-		name: 'rosierJulia',
+		name: 'rosier Julia',
 		category: 'classique',
 		id: '3sd',
 		light: 1,
@@ -126,7 +126,7 @@ export const plantList = [
 		price: 14
 	},
 	{
-		name: 'rosierLara',
+		name: 'rosier Lara',
 		category: 'classique',
 		id: '4kk',
 		bestSale: true,
@@ -136,7 +136,7 @@ export const plantList = [
 		price: 14
 	},
 	{
-		name: 'rosierMandarin',
+		name: 'rosier Mandarin',
 		category: 'extérieur',
 		id: '5pl',
 		light: 3,
@@ -146,7 +146,7 @@ export const plantList = [
 		
 	},
 	{
-		name: 'rosierNaomi',
+		name: 'rosier Naomi',
 		category: 'plante grasse',
 		id: '8fp',
 		light: 2,
@@ -155,7 +155,7 @@ export const plantList = [
 		price: 10
 	},
 	{
-		name: 'rosierSamaritain',
+		name: 'rosier Samaritain',
 		category: 'classique',
 		id: '4kk',
 		light: 2,
@@ -164,7 +164,7 @@ export const plantList = [
 		price: 12
 	},
 	{
-		name: 'rosierVictoria',
+		name: 'rosier Victoria',
 		category: 'extérieur',
 		id: '5pl',
 		light: 3,
@@ -174,7 +174,7 @@ export const plantList = [
 		
 	},
 	{
-		name: 'rosierWildfire',
+		name: 'rosier Wildfire',
 		category: 'plante grasse',
 		id: '8fp',
 		light: 2,
